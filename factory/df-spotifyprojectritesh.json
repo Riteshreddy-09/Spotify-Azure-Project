@@ -1,0 +1,9 @@
+{
+	"name": "df-spotifyprojectritesh",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24245395-18a0-44c7-91e0-0a2b86dfbfd7",
+		"tenantId": "d983c44e-171a-4fde-8556-585c62042a67"
+	}
+}
